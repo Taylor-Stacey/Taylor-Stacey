@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taylor</h1>
 <h3 align="center">A passionate fullstack developer from Oregon</h3>
 
-- 🌱 I’m currently learning **html, JavaScript, CSS, Node, and Express**
+- 🌱 I’m currently studying **algorithms, and playwright**
 
 - 💬 Ask me about **my experiences from BloomTech**
 
